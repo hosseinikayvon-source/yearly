@@ -8,9 +8,9 @@ import { useState, useEffect, useRef } from "react";
 // ── Config: Stripe Payment Links ────────────────────────────
 // INSTRUCTIONS: Replace these with your LIVE Stripe Payment Links when ready
 const STRIPE = {
-  thoughtful: "https://buy.stripe.com/00wbJ11g43Ug6Vd1Afb7y00",
-  generous:   "https://buy.stripe.com/9B6dR9f6U1M8gvNen1b7y01",
-  above:      "https://buy.stripe.com/bJe00jf6U3Ug93la6Lb7y02",
+  thoughtful: "https://buy.stripe.com/test_9B6dR9f6U1M8gvNen1b7y01",
+  generous:   "https://buy.stripe.com/test_9B6dR9f6U1M8gvNen1b7y01",
+  above:      "https://buy.stripe.com/test_9B6dR9f6U1M8gvNen1b7y01",
 };
 
 // ── Config: Supabase ────────────────────────────────────────
